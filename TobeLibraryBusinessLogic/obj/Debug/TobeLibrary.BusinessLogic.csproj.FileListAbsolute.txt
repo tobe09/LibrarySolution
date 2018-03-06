@@ -1,0 +1,11 @@
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\TobeLibraryBusinessLogic.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\TobeLibraryBusinessLogic.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\LibraryEntities.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\TobeLibraryDataAccess.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\LibraryEntities.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\TobeLibraryDataAccess.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\obj\Debug\TobeLibrary.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\obj\Debug\TobeLibraryBusinessLogic.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibraryBusinessLogic\obj\Debug\TobeLibraryBusinessLogic.pdb
