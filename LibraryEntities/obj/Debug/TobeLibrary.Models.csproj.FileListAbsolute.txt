@@ -2,3 +2,7 @@ C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\L
 C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\LibraryEntities\bin\Debug\LibraryEntities.pdb
 C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\LibraryEntities\obj\Debug\LibraryEntities.dll
 C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\LibraryEntities\obj\Debug\LibraryEntities.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\LibraryEntities\bin\Debug\LibraryEntities.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\LibraryEntities\bin\Debug\LibraryEntities.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\LibraryEntities\obj\Debug\LibraryEntities.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\LibraryEntities\obj\Debug\LibraryEntities.pdb

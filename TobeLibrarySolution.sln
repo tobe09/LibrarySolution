@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobeLibrary.WebApi", "TobeL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobeLibrary.WebApi.Test", "TobeLibrary.WebApi.Test\TobeLibrary.WebApi.Test.csproj", "{936C213D-C6EF-42BB-A7E1-F9B1EC22A470}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobeGeneralBusinessLogic", "TobeGeneralBusinessLogic\TobeGeneralBusinessLogic.csproj", "{9D60AEC3-FD36-4F22-9FE7-EE9B53C4B255}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{936C213D-C6EF-42BB-A7E1-F9B1EC22A470}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{936C213D-C6EF-42BB-A7E1-F9B1EC22A470}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{936C213D-C6EF-42BB-A7E1-F9B1EC22A470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D60AEC3-FD36-4F22-9FE7-EE9B53C4B255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D60AEC3-FD36-4F22-9FE7-EE9B53C4B255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D60AEC3-FD36-4F22-9FE7-EE9B53C4B255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D60AEC3-FD36-4F22-9FE7-EE9B53C4B255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

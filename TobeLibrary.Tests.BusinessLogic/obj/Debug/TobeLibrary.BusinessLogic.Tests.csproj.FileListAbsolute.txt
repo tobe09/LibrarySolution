@@ -5,3 +5,16 @@ C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\T
 C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\obj\Debug\TobeLibrary.BusinessLogic.Tests.csprojResolveAssemblyReference.cache
 C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\obj\Debug\TobeLibrary.Tests.BusinessLogic.dll
 C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\obj\Debug\TobeLibrary.Tests.BusinessLogic.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\TobeLibrary.Tests.BusinessLogic.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\TobeLibrary.Tests.BusinessLogic.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\TobeLibraryBusinessLogic.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\TobeLibraryDataAccess.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\LibraryEntities.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\TobeLibraryBusinessLogic.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\TobeLibraryDataAccess.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\LibraryEntities.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\obj\Debug\TobeLibrary.BusinessLogic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\obj\Debug\TobeLibrary.Tests.BusinessLogic.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\TobeLibrarySolution\TobeLibrary.Tests.BusinessLogic\obj\Debug\TobeLibrary.Tests.BusinessLogic.pdb

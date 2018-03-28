@@ -8,22 +8,18 @@ using LibraryEntities;
 
 namespace TobeLibraryBusinessLogic.DataProviders
 {
-    class LoginDataProvider
+    class LoginDataProvider : MyBaseDataProvider
     {
-        private LibraryContext _libContext;
-        
-        internal LoginDataProvider(LibraryContext libContext)
-        {
-            _libContext = libContext;
-        }
+        internal LoginDataProvider() : base() { }
+        internal LoginDataProvider(LibraryContext libContext) : base(libContext) { }
 
-        internal Users GetLoginUser(string username, string password)
+        internal Administrators GetLoginAdmin(string username, string password)
         {
-            var users = from user in _libContext.Users
-                        where user.UserName == username && user.Password == password
-                        select user;
+            var adm = from admin in _libContext.Administrators
+                      where admin.UserName == username && admin.Password == password
+                      select admin;
 
-            return users.FirstOrDefault();
+            return adm.FirstOrDefault();
         }
     }
 }
